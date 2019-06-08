@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
     "bug_tracker_uri" => "https://github.com/cloverly/cloverly-ruby-gem/issues"
   }
 
-  s.required_ruby_version     = ">= 2.5.0"
+  s.required_ruby_version     = ">= 1.9.3"
   s.required_rubygems_version = ">= 1.8.11"
 
   s.add_dependency('faraday', '~>0.9')
