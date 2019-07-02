@@ -10,11 +10,6 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://cloverly.com'
   s.license     = 'MIT'
 
-  s.metadata = {
-    "source_code_uri" => "https://github.com/cloverly/cloverly-ruby-gem",
-    "bug_tracker_uri" => "https://github.com/cloverly/cloverly-ruby-gem/issues"
-  }
-
   s.required_ruby_version     = ">= 1.9.3"
   s.required_rubygems_version = ">= 1.8.11"
 
