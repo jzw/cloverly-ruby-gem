@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'cloverly'
-  s.version     = ENV['BUILD_VERSION'] || '0.0.0-0'
+  s.version     = ENV['BUILD_VERSION'] || '0.0.1'
   s.date        = Time.now.strftime("%Y-%m-%d")
   s.summary     = "Ruby library for interaction with Cloverly API"
   s.description = "Cloverly API powers carbon offsets via an API"
